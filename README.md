@@ -1,1 +1,0 @@
-# Katsubo-Algorythms
